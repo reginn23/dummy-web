@@ -121,28 +121,32 @@ This page is a list of the names of Greek gods in ancient mythology and their ro
     </table>
     <form>
       <label>Nama</label>
-      <input type="text">
+      <input type="text" name="nama">
       
-      <label>Alamat</label>
-      <textarea></textarea>
+      <label for address>Alamat</label>
+      <textarea name="address"></textarea>
       
-      <label>Negara</label>
-      <select>
+      <label for="country">Negara</label>
+      <select name="country">
         <option>Zimbabwe</option>
         <option>Estonia</option>
         <option>Suriah</option>
         <option>Kepulauan Solomon</option>
       </select>
       
-      <label>
-        <input type="radio"> <label>male</label>
-        <input type="radio"> <label>female</label>
-      </label>
+      <label>Gender</label>
+        <input type="radio" name="male"> 
+        <labelfor="male">male</label>
+        <input type="radio" name="female"> 
+        <label for="female">female</label>
       
       <label>Pekerjaan</label>
-      <input type="checkbox"> <label>school</label>
-      <input type="checkbox"> <label>work</label>
-      <input type="checkbox"> <label>unemployee</label>
+      <input type="checkbox" name="school"> 
+      <label for="school">school</label>
+      <input type="checkbox" name="work"> 
+      <label for="work">work</label>
+      <input type="checkbox" name="unemployee"> 
+      <label for ="unemployee">unemployee</label>
       
       <button>Save</button>
     </form>
