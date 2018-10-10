@@ -1,7 +1,9 @@
 body {
   background-color: rgb(255, 255,255);
 }
-
+#atas {
+ color: red; 
+}
 a{
 color: rgb(0, 0, 0);
 }
