@@ -1,7 +1,13 @@
 body {
-  background-color:rgb(255, 255,255);
+  background-color: rgb(255, 255,255);
 }
 
 .atas {
   color:rgb(255, 0, 0);
+}
+a{
+color: black;
+}
+a:hover{
+color :white;
 }
