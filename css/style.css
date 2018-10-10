@@ -1,5 +1,13 @@
+<style>
+.atas{
+    color: red;
+    padding:10px
+
+}
+</style>
+
 body{
-  background-color: green;
+  background-color: white;
 }
 
 a{
