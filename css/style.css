@@ -17,4 +17,72 @@ h3 {
 h1{
   text-align: center;
 }
-  
+@keyframes layer2Anim {
+		0%{
+			opacity:0;
+
+		}
+		17%{
+			opacity:0;
+
+		}
+		33%{
+			opacity:1;
+		}
+		50%{
+			opacity:1;
+		}
+		67%{
+			opacity: 0;
+		}
+		83%{
+			opacity: 0;
+		}
+		100%{
+			opacity:0;
+		}
+	}
+
+	*{
+		box-sizing :border-box;
+	}
+	.slideshow{
+		position :relative;
+		width:100%;
+		height:29%;
+		overflow: hidden
+	}
+	.placeholder{
+		width:100%;
+		visibility:hidden;
+	}
+
+	.layer1,.layer2,.layer3{
+		position:absolute;
+		width:100%;
+		height:100%;
+		top:0;
+		left:0;
+		background-repeat: no-repeat;
+		
+
+	}
+	.layer1{
+		background-image:url(slideshow/slide1.jpg);
+	}
+	.layer2{
+		background-image:url(slideshow/slide2.jpg);
+		animation: layer2Anim 7s infinite;
+	}
+	.layer3{
+		background-image:url(slideshow/slide3.jpg);
+		animation: layer2Anim 7s infinite;
+	}
+.layer4{
+		background-image:url(slideshow/slide4.jpg);
+		animation: layer2Anim 7s infinite;
+	}
+.layer5{
+		background-image:url(slideshow/slide5.jpg);
+		animation: layer2Anim 7s infinite;
+	}  
