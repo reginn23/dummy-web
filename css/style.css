@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Cinzel')
+  @import url('https://fonts.googleapis.com/css?family=Cinzel|Glegoo');
 
 body {
   background-color: rgb(255, 255,255);
@@ -21,5 +22,5 @@ h1{
 }
 
 p{
-  font family: 'Cinzel', serif;
+  font family: 'Cinzel', 'Glegoo', serif;
 }
