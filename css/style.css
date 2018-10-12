@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Cinzel');
+
 body {
   background-color: rgb(255, 255,255);
 }
@@ -19,7 +21,7 @@ h1{
 }
 
 p{
-  font family: Playfair Display; serif;
+  font family: Cinzel'; serif;
 }
 @keyframes layer2Anim {
 		0%{
