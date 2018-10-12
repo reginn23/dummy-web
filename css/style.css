@@ -17,6 +17,10 @@ h3 {
 h1{
   text-align: center;
 }
+
+p{
+  font family: slabo; serif;
+}
 @keyframes layer2Anim {
 		0%{
 			opacity:0;
