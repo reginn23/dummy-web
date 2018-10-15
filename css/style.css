@@ -46,11 +46,11 @@ background-color: rgb(0, 255, 255);
 .kotak2 {
   background-color: rgb(205, 92, 92);
   width: 150px;
-  height: 500px;
+  height: 1000px;
 }
 
 .kotak3 {
   background-color: rgb(233, 150, 122);
-  width: 20%;
-  height: 50%;
+  width: 120%;
+  height: 80%;
 }
