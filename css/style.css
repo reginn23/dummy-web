@@ -57,7 +57,7 @@ background-color: rgb(0, 255, 255);
 
 .seminar {
   background-color: rgb(250, 99, 71);
-  width: 80%;
+  width: 79%;
   float: left;
   height: 400px;
 }
@@ -67,4 +67,6 @@ background-color: rgb(0, 255, 255);
   width: 20%;
   float: right;
   height: 400px;
+  border-style: dashed;
+  border-color: rgb(220, 20, 60);
 }
