@@ -57,7 +57,7 @@ background-color: rgb(0, 255, 255);
 
 .seminar {
   background-color: rgb(250, 99, 71);
-  width: 33,33%;
+  width: 30%;
   float: left;
   height: 400px;
   padding: 3px;
@@ -67,7 +67,7 @@ background-color: rgb(0, 255, 255);
 
 .konsultasi{
   background-color: rgb(254, 228, 181);
-  width: 33,33%;
+  width: 30;
   float: left;
   height: 400px;
   padding: 3px;
@@ -77,7 +77,7 @@ background-color: rgb(0, 255, 255);
 
 .group-sharing{
   background-color: rgb(254, 228, 181);
-  width: 33,33%;
+  width: 30%;
   float: left;
   height: 400px;
   padding: 3px;
