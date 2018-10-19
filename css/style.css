@@ -116,14 +116,14 @@ background-color: rgb(0, 255, 255);
   border-color: rgb(220, 20, 60);
   text-align: center;
   margin-right: 20px;
-  margin left : 20px;
+  margin-left : 20px;
 
 }
 
 .misi{
   background-color:  rgb(250, 99, 71);
   width: 20%;
-  float: right;
+  float: left;
   height: 400px;
   padding: 10px;
   border-style: dashed;
@@ -132,4 +132,31 @@ background-color: rgb(0, 255, 255);
   margin-right: 20px;
 
 }
+
+.misi{
+  background-color:  rgb(250, 99, 71);
+  width: 20%;
+  float: left;
+  height: 400px;
+  padding: 10px;
+  border-style: dashed;
+  border-color: rgb(220, 20, 60);
+  text-align: center;
+  margin-right: 20px;
+
+}
+
+.gambar{
+  background-color:  rgb(250, 99, 71);
+  width: 55%;
+  float: left;
+  height: 400px;
+  padding: 10px;
+  border-style: dashed;
+  border-color: rgb(220, 20, 60);
+  text-align: center;
+  margin-right: 20px;
+
+}
+
 
