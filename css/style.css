@@ -152,9 +152,19 @@ background-color:  rgb(250, 255, 255);
   float: left;
   height: 100px;
   padding: 5px;
-  border-style: dashed;
-  border-color: rgb(220, 20, 60);
-  text-align: center;
+  border-style: double;
+  border-color: rgb(169, 169, 169);
   margin-right: 20px;
   margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+.isi_2{
+font-size: 17px;
+font-weight: 700;
+max-height: 40px;
+}
+
+.isi_1{
+
 }
