@@ -128,9 +128,9 @@ background-color: rgb(0, 255, 255);
 
 .saran{
   background-color: rgb(250, 99, 71);
-  width: 80%;
-  float: left;
-  height: 400px;
+  width: 40%;
+  float: middle;
+  height: 300px;
   padding: 10px;
   border-style: dashed;
   border-color: rgb(220, 20, 60);
@@ -140,7 +140,7 @@ background-color: rgb(0, 255, 255);
 }
 .line{
   background-color:  rgb(250, 99, 71);
-  width: 30%;
+  width: 20%;
   float: left;
   height: 200px;
   padding: 10px;
@@ -153,7 +153,7 @@ background-color: rgb(0, 255, 255);
 
 .instagram{
   background-color:  rgb(250, 99, 71);
-  width: 30%;
+  width: 20%;
   float: left;
   height: 200px;
   padding: 10px;
@@ -166,7 +166,7 @@ background-color: rgb(0, 255, 255);
 
 .facebook{
   background-color:  rgb(250, 99, 71);
-  width: 30%;
+  width: 20%;
   float: left;
   height: 200px;
   padding: 10px;
